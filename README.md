@@ -2,7 +2,7 @@
 Ebay Scraper für Sammelkarten
 
 # Verison: 1.0 
-# Stannd: 22.06.2025
+# Stand: 22.06.2025
 
 
 # Beschreibung: 
